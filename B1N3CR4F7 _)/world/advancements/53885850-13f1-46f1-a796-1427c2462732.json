@@ -23,12 +23,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2021-09-13 23:41:16 -0300"
@@ -41,21 +35,9 @@
     },
     "done": true
   },
-  "extendedmushrooms:recipes/decorations/mushroom_wood/colorless/mushroom_ladder": {
-    "criteria": {
-      "has_stick": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2021-09-13 23:45:02 -0300"
-    },
-    "done": true
-  },
-  "betterendforge:recipes/betterendforge/thallasium_shovel_smithing": {
-    "criteria": {
-      "has_stick": "2021-09-13 23:41:38 -0300"
     },
     "done": true
   },
@@ -65,21 +47,9 @@
     },
     "done": true
   },
-  "campful:recipes/campfire/crimson_campfire": {
-    "criteria": {
-      "has_stick": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2021-09-13 23:39:25 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2021-09-13 23:46:01 -0300"
     },
     "done": true
   },
@@ -89,9 +59,9 @@
     },
     "done": true
   },
-  "variant16x:recipes/transportation/warped_boat": {
+  "adorn:recipes/oak_step": {
     "criteria": {
-      "in_water": "2021-09-13 23:44:16 -0300"
+      "has_key_item_0": "2021-09-14 17:04:58 -0300"
     },
     "done": true
   },
@@ -113,15 +83,15 @@
     },
     "done": true
   },
-  "campful:recipes/campfire/birch_campfire": {
-    "criteria": {
-      "has_stick": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
   "adorn:recipes/oak_post": {
     "criteria": {
       "has_key_item_0": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-09-14 17:04:40 -0300"
     },
     "done": true
   },
@@ -131,9 +101,9 @@
     },
     "done": true
   },
-  "campful:recipes/campfire/warped_campfire": {
+  "infernalexp:recipes/food/blindsight_tounge_stew": {
     "criteria": {
-      "has_stick": "2021-09-13 23:41:38 -0300"
+      "has_bowl": "2021-09-14 17:05:47 -0300"
     },
     "done": true
   },
@@ -161,19 +131,7 @@
     },
     "done": true
   },
-  "campful:recipes/campfire/dark_oak_campfire": {
-    "criteria": {
-      "has_stick": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
   "campful:recipes/campfire/cypress_campfire": {
-    "criteria": {
-      "has_stick": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
-  "betterendforge:recipes/betterendforge/terminite_hammer_smithing": {
     "criteria": {
       "has_stick": "2021-09-13 23:41:38 -0300"
     },
@@ -185,9 +143,9 @@
     },
     "done": true
   },
-  "extendedmushrooms:recipes/transportation/mushroom_wood/colorless/mushroom_boat": {
+  "betterendforge:recipes/betterendforge/terminite_hammer_smithing": {
     "criteria": {
-      "in_water": "2021-09-13 23:44:16 -0300"
+      "has_stick": "2021-09-13 23:41:38 -0300"
     },
     "done": true
   },
@@ -203,18 +161,6 @@
     },
     "done": true
   },
-  "dungeons_arise:find_illager_corsair_or_illager_galley": {
-    "criteria": {
-      "location1": "2021-09-13 23:47:55 -0300"
-    },
-    "done": true
-  },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2021-09-13 23:35:43 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2021-09-13 23:44:16 -0300"
@@ -224,24 +170,6 @@
   "aquaculture:recipes/tools/wooden_fillet_knife": {
     "criteria": {
       "has_items": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2021-09-13 23:41:16 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2021-09-13 23:39:25 -0300"
     },
     "done": true
   },
@@ -263,21 +191,27 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorations/oak_palisade": {
-    "criteria": {
-      "has_log": "2021-09-13 23:39:25 -0300"
-    },
-    "done": true
-  },
   "campful:recipes/campfire/redbud_campfire": {
     "criteria": {
       "has_stick": "2021-09-13 23:41:38 -0300"
     },
     "done": true
   },
-  "permafrost_biome:permafrost": {
+  "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
-      "permafrost": "2021-09-13 23:35:43 -0300"
+      "has_emerald": "2021-09-14 17:05:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2021-09-14 17:05:44 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2021-09-14 17:05:17 -0300"
     },
     "done": true
   },
@@ -290,6 +224,512 @@
   "twilightforest:alt/biomes/general_biomes": {
     "criteria": {
       "1": "2021-09-13 23:37:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2021-09-14 17:11:39 -0300",
+      "mushroom_stew": "2021-09-14 17:05:47 -0300",
+      "melon_slice": "2021-09-14 17:04:49 -0300",
+      "cod": "2021-09-14 17:16:56 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2021-09-13 23:41:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2021-09-14 17:05:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2021-09-13 23:41:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2021-09-14 17:01:57 -0300"
+    },
+    "done": true
+  },
+  "campful:recipes/campfire/yucca_campfire": {
+    "criteria": {
+      "has_stick": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2021-09-13 23:39:25 -0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2021-09-14 17:01:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2021-09-13 23:46:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_sword_handle_smithing": {
+    "criteria": {
+      "has_stick": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "variant16x:recipes/redstone/cobblestone_pressure_plate": {
+    "criteria": {
+      "has_cobblestone": "2021-09-13 23:41:16 -0300"
+    },
+    "done": true
+  },
+  "exoticbirds:default/root": {
+    "criteria": {
+      "launch_mod": "2021-09-13 23:35:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2021-09-13 23:45:01 -0300"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_pickaxe_smithing": {
+    "criteria": {
+      "has_stick": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2021-09-13 23:41:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2021-09-13 23:41:16 -0300"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2021-09-13 23:35:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2021-09-13 23:39:25 -0300"
+    },
+    "done": true
+  },
+  "campful:recipes/campfire/jacaranda_campfire": {
+    "criteria": {
+      "has_stick": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2021-09-13 23:41:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2021-09-14 17:01:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-09-13 23:44:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-09-13 23:44:16 -0300"
+    },
+    "done": true
+  },
+  "campful:recipes/campfire/cherry_campfire": {
+    "criteria": {
+      "has_stick": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "extendedmushrooms:recipes/transportation/mushroom_wood/glowshroom/glowshroom_boat": {
+    "criteria": {
+      "in_water": "2021-09-13 23:44:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-09-13 23:44:16 -0300"
+    },
+    "done": true
+  },
+  "variant16x:recipes/building_blocks/stripped_crimson_hyphae_slab": {
+    "criteria": {
+      "has_stripped_crimson_hyphae": "2021-09-14 17:04:35 -0300"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_bench": {
+    "criteria": {
+      "has_key_item_0": "2021-09-14 17:04:58 -0300"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2021-09-13 23:37:47 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cutting_board": {
+    "criteria": {
+      "has_stick": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/stone_fillet_knife": {
+    "criteria": {
+      "has_items": "2021-09-13 23:41:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2021-09-13 23:43:41 -0300"
+    },
+    "done": true
+  },
+  "adorn:recipes/crate": {
+    "criteria": {
+      "has_key_item_0": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2021-09-14 17:05:44 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2021-09-13 23:35:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2021-09-13 23:41:16 -0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/oak_support": {
+    "criteria": {
+      "has_plank": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2021-09-13 23:46:01 -0300"
+    },
+    "done": true
+  },
+  "simplefarming:berries": {
+    "criteria": {
+      "blueberries": "2021-09-13 23:44:07 -0300"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/farmersdelight/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2021-09-14 17:04:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2021-09-14 17:08:57 -0300",
+      "minecraft:vindicator": "2021-09-14 17:06:40 -0300",
+      "minecraft:spider": "2021-09-13 23:45:59 -0300",
+      "minecraft:creeper": "2021-09-13 23:43:41 -0300",
+      "minecraft:slime": "2021-09-13 23:45:15 -0300",
+      "minecraft:zombie": "2021-09-13 23:45:27 -0300"
+    },
+    "done": false
+  },
+  "variant16x:recipes/redstone/cobblestone_button": {
+    "criteria": {
+      "has_cobblestone": "2021-09-13 23:41:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-09-14 17:04:40 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2021-09-14 17:05:47 -0300"
+    },
+    "done": true
+  },
+  "campful:recipes/campfire/wisteria_campfire": {
+    "criteria": {
+      "has_stick": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2021-09-13 23:45:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-09-13 23:45:17 -0300"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2021-09-13 23:39:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-09-13 23:44:16 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2021-09-14 17:05:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2021-09-14 17:05:35 -0300"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_sword_handle_smithing": {
+    "criteria": {
+      "has_stick": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_hammer_smithing": {
+    "criteria": {
+      "has_stick": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "extendedmushrooms:recipes/decorations/mushroom_wood/colorless/mushroom_ladder": {
+    "criteria": {
+      "has_stick": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_shovel_smithing": {
+    "criteria": {
+      "has_stick": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "campful:recipes/campfire/crimson_campfire": {
+    "criteria": {
+      "has_stick": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2021-09-13 23:46:01 -0300"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/brazier": {
+    "criteria": {
+      "has_item": "2021-09-14 17:05:35 -0300"
+    },
+    "done": true
+  },
+  "variant16x:recipes/transportation/warped_boat": {
+    "criteria": {
+      "in_water": "2021-09-13 23:44:16 -0300"
+    },
+    "done": true
+  },
+  "campful:recipes/campfire/birch_campfire": {
+    "criteria": {
+      "has_stick": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "campful:recipes/campfire/warped_campfire": {
+    "criteria": {
+      "has_stick": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "variant16x:recipes/building_blocks/stripped_crimson_hyphae_stairs": {
+    "criteria": {
+      "has_stripped_crimson_hyphae": "2021-09-14 17:04:35 -0300"
+    },
+    "done": true
+  },
+  "campful:recipes/campfire/dark_oak_campfire": {
+    "criteria": {
+      "has_stick": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "extendedmushrooms:recipes/transportation/mushroom_wood/colorless/mushroom_boat": {
+    "criteria": {
+      "in_water": "2021-09-13 23:44:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2021-09-14 17:05:35 -0300"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2021-09-13 23:35:43 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2021-09-13 23:47:55 -0300"
+    },
+    "done": true
+  },
+  "omnis:recipes/omnis/ravaged_metal": {
+    "criteria": {
+      "has_ravaged_scrap": "2021-09-14 17:06:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2021-09-13 23:41:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2021-09-13 23:39:25 -0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/oak_palisade": {
+    "criteria": {
+      "has_log": "2021-09-13 23:39:25 -0300"
+    },
+    "done": true
+  },
+  "variant16x:recipes/redstone/stripped_crimson_hyphae_button": {
+    "criteria": {
+      "has_stripped_crimson_hyphae": "2021-09-14 17:04:35 -0300"
+    },
+    "done": true
+  },
+  "permafrost_biome:permafrost": {
+    "criteria": {
+      "permafrost": "2021-09-13 23:35:43 -0300"
+    },
+    "done": true
+  },
+  "variant16x:recipes/decorations/stripped_crimson_hyphae_fence": {
+    "criteria": {
+      "has_stripped_crimson_hyphae": "2021-09-14 17:04:35 -0300"
     },
     "done": true
   },
@@ -317,15 +757,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_hoe": {
+  "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
-      "has_stick": "2021-09-13 23:41:38 -0300"
+      "has_logs": "2021-09-14 17:04:35 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
+  "adorn:recipes/oak_drawer": {
     "criteria": {
-      "has_cobblestone": "2021-09-13 23:41:16 -0300"
+      "has_key_item_0": "2021-09-14 17:04:58 -0300"
     },
     "done": true
   },
@@ -347,19 +787,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+  "variant16x:recipes/redstone/stripped_crimson_hyphae_pressure_plate": {
     "criteria": {
-      "has_cobblestone": "2021-09-13 23:41:16 -0300"
+      "has_stripped_crimson_hyphae": "2021-09-14 17:04:35 -0300"
     },
     "done": true
   },
   "campful:recipes/campfire/maple_campfire": {
-    "criteria": {
-      "has_stick": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
-  "campful:recipes/campfire/yucca_campfire": {
     "criteria": {
       "has_stick": "2021-09-13 23:41:38 -0300"
     },
@@ -383,9 +817,9 @@
     },
     "done": true
   },
-  "naturescompass:natures_compass_sapling": {
+  "adorn:recipes/oak_platform": {
     "criteria": {
-      "has_recipe": "2021-09-13 23:39:25 -0300"
+      "has_key_item_0": "2021-09-14 17:04:58 -0300"
     },
     "done": true
   },
@@ -395,15 +829,15 @@
     },
     "done": true
   },
-  "supplementaries:recipes/item_shelf": {
-    "criteria": {
-      "has_item": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
   "variant16x:recipes/building_blocks/oak_wood_slab": {
     "criteria": {
       "has_oak_log": "2021-09-13 23:39:25 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "has_item": "2021-09-13 23:41:38 -0300"
     },
     "done": true
   },
@@ -443,21 +877,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
+  "variant16x:recipes/redstone/stripped_crimson_hyphae_fence_gate": {
     "criteria": {
-      "has_string": "2021-09-13 23:46:01 -0300"
+      "has_stripped_crimson_hyphae": "2021-09-14 17:04:35 -0300"
     },
     "done": true
   },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2021-09-13 23:45:01 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2021-09-13 23:41:38 -0300"
     },
     "done": true
   },
@@ -491,39 +919,15 @@
     },
     "done": true
   },
-  "betterendforge:recipes/betterendforge/thallasium_sword_handle_smithing": {
-    "criteria": {
-      "has_stick": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
   "betterendforge:recipes/betterendforge/thallasium_axe_smithing": {
     "criteria": {
       "has_stick": "2021-09-13 23:41:38 -0300"
     },
     "done": true
   },
-  "variant16x:recipes/redstone/cobblestone_pressure_plate": {
-    "criteria": {
-      "has_cobblestone": "2021-09-13 23:41:16 -0300"
-    },
-    "done": true
-  },
   "betterendforge:recipes/betterendforge/thallasium_hoe_smithing": {
     "criteria": {
       "has_stick": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2021-09-13 23:45:01 -0300"
-    },
-    "done": true
-  },
-  "exoticbirds:default/root": {
-    "criteria": {
-      "launch_mod": "2021-09-13 23:35:43 -0300"
     },
     "done": true
   },
@@ -539,12 +943,6 @@
     },
     "done": true
   },
-  "betterendforge:recipes/betterendforge/terminite_pickaxe_smithing": {
-    "criteria": {
-      "has_stick": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2021-09-13 23:41:38 -0300"
@@ -554,12 +952,6 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2021-09-13 23:45:17 -0300"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2021-09-13 23:41:16 -0300"
     },
     "done": true
   },
@@ -575,15 +967,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/furnace": {
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
     "criteria": {
-      "has_cobblestone": "2021-09-13 23:41:16 -0300"
-    },
-    "done": true
-  },
-  "morevillagers:root": {
-    "criteria": {
-      "always": "2021-09-13 23:35:43 -0300"
+      "has_baked_potato": "2021-09-14 17:05:17 -0300"
     },
     "done": true
   },
@@ -598,33 +984,21 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/charcoal": {
+  "adorn:recipes/trading_station": {
     "criteria": {
-      "has_log": "2021-09-13 23:39:25 -0300"
+      "has_key_item_0": "2021-09-14 17:05:29 -0300"
     },
     "done": true
   },
-  "campful:recipes/campfire/jacaranda_campfire": {
+  "adorn:recipes/oak_coffee_table": {
     "criteria": {
-      "has_stick": "2021-09-13 23:41:38 -0300"
+      "has_key_item_0": "2021-09-14 17:04:58 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_pickaxe": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_stick": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2021-09-13 23:41:16 -0300"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2021-09-13 23:44:09 -0300"
+      "has_wood_slab": "2021-09-14 17:04:58 -0300"
     },
     "done": true
   },
@@ -634,15 +1008,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2021-09-13 23:44:16 -0300"
-    },
-    "done": true
-  },
   "betterendforge:recipes/betterendforge/terminite_hoe_smithing": {
     "criteria": {
       "has_stick": "2021-09-13 23:41:38 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2021-09-14 17:05:47 -0300"
     },
     "done": true
   },
@@ -652,15 +1026,9 @@
     },
     "done": true
   },
-  "campful:recipes/campfire/cherry_campfire": {
+  "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
-      "has_stick": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2021-09-13 23:41:38 -0300"
+      "has_cobblestone": "2021-09-13 23:41:16 -0300"
     },
     "done": true
   },
@@ -670,21 +1038,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
+  "blue_skies:recipes/blue_skies_blocks/trough": {
     "criteria": {
-      "has_cobblestone": "2021-09-13 23:41:16 -0300"
-    },
-    "done": true
-  },
-  "extendedmushrooms:recipes/transportation/mushroom_wood/glowshroom/glowshroom_boat": {
-    "criteria": {
-      "in_water": "2021-09-13 23:44:16 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2021-09-13 23:44:16 -0300"
+      "has_item": "2021-09-14 17:04:58 -0300"
     },
     "done": true
   },
@@ -706,12 +1062,6 @@
     },
     "done": true
   },
-  "blue_skies:everbright/enter": {
-    "criteria": {
-      "enter_everbright": "2021-09-13 23:37:47 -0300"
-    },
-    "done": true
-  },
   "campful:recipes/campfire/jungle_campfire": {
     "criteria": {
       "has_stick": "2021-09-13 23:41:38 -0300"
@@ -724,33 +1074,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cutting_board": {
-    "criteria": {
-      "has_stick": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
   "variant16x:recipes/redstone/oak_wood_button": {
     "criteria": {
       "has_oak_log": "2021-09-13 23:39:25 -0300"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/tools/stone_fillet_knife": {
-    "criteria": {
-      "has_items": "2021-09-13 23:41:16 -0300"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2021-09-13 23:43:41 -0300"
-    },
-    "done": true
-  },
-  "adorn:recipes/crate": {
-    "criteria": {
-      "has_key_item_0": "2021-09-13 23:41:38 -0300"
     },
     "done": true
   },
@@ -766,54 +1092,27 @@
     },
     "done": true
   },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2021-09-13 23:35:43 -0300"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorations/oak_support": {
-    "criteria": {
-      "has_plank": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2021-09-13 23:46:01 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2021-09-13 23:41:16 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2021-09-13 23:44:16 -0300"
     },
     "done": true
   },
-  "simplefarming:berries": {
+  "supplementaries:recipes/speaker_block": {
     "criteria": {
-      "blueberries": "2021-09-13 23:44:07 -0300"
+      "has_item": "2021-09-14 17:05:29 -0300"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "adorn:recipes/oak_shelf": {
     "criteria": {
-      "minecraft:spider": "2021-09-13 23:45:59 -0300",
-      "minecraft:creeper": "2021-09-13 23:43:41 -0300",
-      "minecraft:slime": "2021-09-13 23:45:15 -0300",
-      "minecraft:zombie": "2021-09-13 23:45:27 -0300"
+      "has_key_item_0": "2021-09-14 17:04:58 -0300"
     },
-    "done": false
+    "done": true
   },
-  "variant16x:recipes/redstone/cobblestone_button": {
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
-      "has_cobblestone": "2021-09-13 23:41:16 -0300"
+      "has_kelp": "2021-09-14 17:01:57 -0300"
     },
     "done": true
   },
@@ -829,9 +1128,9 @@
     },
     "done": true
   },
-  "extendedmushrooms:recipes/decorations/mushroom_wood/glowshroom/glowshroom_ladder": {
+  "omnis:recipes/omnis/ravagestone": {
     "criteria": {
-      "has_stick": "2021-09-13 23:41:38 -0300"
+      "has_ravaged_scrap": "2021-09-14 17:06:59 -0300"
     },
     "done": true
   },
@@ -841,21 +1140,27 @@
     },
     "done": true
   },
-  "campful:recipes/campfire/wisteria_campfire": {
+  "extendedmushrooms:recipes/decorations/mushroom_wood/glowshroom/glowshroom_ladder": {
     "criteria": {
       "has_stick": "2021-09-13 23:41:38 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+  "adorn:recipes/oak_table": {
     "criteria": {
-      "has_iron_chestplate": "2021-09-13 23:45:01 -0300"
+      "has_key_item_0": "2021-09-14 17:04:58 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/slime_block": {
+  "adorn:recipes/oak_chair": {
     "criteria": {
-      "has_slime_ball": "2021-09-13 23:45:17 -0300"
+      "has_key_item_0": "2021-09-14 17:04:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2021-09-14 17:05:35 -0300"
     },
     "done": true
   },
@@ -865,33 +1170,15 @@
     },
     "done": true
   },
-  "naturescompass:natures_compass_log": {
-    "criteria": {
-      "has_log": "2021-09-13 23:39:25 -0300"
-    },
-    "done": true
-  },
   "variant16x:recipes/building_blocks/oak_wood_stairs": {
     "criteria": {
       "has_oak_log": "2021-09-13 23:39:25 -0300"
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
+  "voidtotem:recipes/combat/totem_of_void_undying": {
     "criteria": {
-      "stone_pickaxe": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2021-09-13 23:44:16 -0300"
+      "has_emerald": "2021-09-14 17:05:29 -0300"
     },
     "done": true
   },
@@ -901,9 +1188,9 @@
     },
     "done": true
   },
-  "betterendforge:recipes/betterendforge/terminite_sword_handle_smithing": {
+  "minecraft:recipes/building_blocks/melon": {
     "criteria": {
-      "has_stick": "2021-09-13 23:41:38 -0300"
+      "has_melon": "2021-09-14 17:04:40 -0300"
     },
     "done": true
   },
@@ -913,19 +1200,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
   "campful:recipes/campfire/spruce_campfire": {
-    "criteria": {
-      "has_stick": "2021-09-13 23:41:38 -0300"
-    },
-    "done": true
-  },
-  "betterendforge:recipes/betterendforge/thallasium_hammer_smithing": {
     "criteria": {
       "has_stick": "2021-09-13 23:41:38 -0300"
     },
