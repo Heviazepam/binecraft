@@ -1,0 +1,16 @@
+{
+	id: "53885850-13f1-46f1-a796-1427c2462732"
+	type: "player"
+	player_name: "troman1"
+	ranks: {
+		53885850-13f1-46f1-a796-1427c2462732: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "troman1"
+		"ftbteams:color": "#59C1FF"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}
