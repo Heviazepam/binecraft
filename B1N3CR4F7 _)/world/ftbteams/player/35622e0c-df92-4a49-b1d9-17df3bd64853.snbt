@@ -1,0 +1,14 @@
+{
+	id: "35622e0c-df92-4a49-b1d9-17df3bd64853"
+	type: "player"
+	player_name: "zKuF"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "zKuF"
+		"ftbteams:color": "#7159FF"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

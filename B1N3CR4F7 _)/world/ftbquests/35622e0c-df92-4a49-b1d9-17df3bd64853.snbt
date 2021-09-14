@@ -1,0 +1,24 @@
+{
+	version: 1
+	uuid: "35622e0cdf924a49b1d917df3bd64853"
+	name: "zKuF"
+	can_edit: false
+	lock: false
+	money: 0L
+	auto_pin: false
+	task_progress: {
+		7CD52E1D2BAF4A81: 1
+	}
+	started: {
+		7CD52E1D2BAF4A81: 1631387916522L
+		0000000000000001: 1631387916522L
+		7AB5EA68B6C4B8C8: 1631387916522L
+		199DB27DAA5DBED8: 1631387916522L
+	}
+	completed: {
+		7CD52E1D2BAF4A81: 1631387916522L
+		7AB5EA68B6C4B8C8: 1631387916522L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

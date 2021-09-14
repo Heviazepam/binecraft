@@ -1,0 +1,24 @@
+{
+	version: 1
+	uuid: "5cdf9440d1664028b6992f3448b011cb"
+	name: "FuenSUS"
+	can_edit: false
+	lock: false
+	money: 0L
+	auto_pin: false
+	task_progress: {
+		7CD52E1D2BAF4A81: 1
+	}
+	started: {
+		7CD52E1D2BAF4A81: 1631386789127L
+		0000000000000001: 1631386789127L
+		7AB5EA68B6C4B8C8: 1631386789127L
+		199DB27DAA5DBED8: 1631386789127L
+	}
+	completed: {
+		7CD52E1D2BAF4A81: 1631386789127L
+		7AB5EA68B6C4B8C8: 1631386789127L
+	}
+	claimed_rewards: { }
+	pinned_quests: ["7AB5EA68B6C4B8C8"]
+}

@@ -1,0 +1,14 @@
+{
+	id: "f1be9b3d-d966-4d04-97fb-18153b03ed7e"
+	type: "player"
+	player_name: "Heviazepam"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Heviazepam"
+		"ftbteams:color": "#FFB959"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

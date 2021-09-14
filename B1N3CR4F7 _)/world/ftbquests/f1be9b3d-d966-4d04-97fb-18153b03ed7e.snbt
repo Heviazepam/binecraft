@@ -1,0 +1,24 @@
+{
+	version: 1
+	uuid: "f1be9b3dd9664d0497fb18153b03ed7e"
+	name: "Heviazepam"
+	can_edit: false
+	lock: false
+	money: 0L
+	auto_pin: false
+	task_progress: {
+		7CD52E1D2BAF4A81: 1
+	}
+	started: {
+		7CD52E1D2BAF4A81: 1631387278886L
+		0000000000000001: 1631387278886L
+		7AB5EA68B6C4B8C8: 1631387278886L
+		199DB27DAA5DBED8: 1631387278886L
+	}
+	completed: {
+		7CD52E1D2BAF4A81: 1631387278886L
+		7AB5EA68B6C4B8C8: 1631387278886L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

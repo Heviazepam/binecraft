@@ -1,0 +1,31 @@
+{
+	id: "38ff0aad-f1f2-4132-86f7-c6d5a4cd2a90"
+	type: "party"
+	owner: "f1be9b3d-d966-4d04-97fb-18153b03ed7e"
+	ranks: {
+		76063568-76d8-4ab7-a0a6-1c5079fb40ac: "member"
+		abd71d0c-85e3-43d8-97de-4036d7d2275a: "member"
+		f1be9b3d-d966-4d04-97fb-18153b03ed7e: "owner"
+		35622e0c-df92-4a49-b1d9-17df3bd64853: "member"
+		5cdf9440-d166-4028-b699-2f3448b011cb: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "losk"
+		"ftbteams:color": "#59B4FF"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1631387771553L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Heviazepam\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "f1be9b3d-d966-4d04-97fb-18153b03ed7e", date: 1631387785100L, text: "{\"color\":\"green\",\"extra\":[{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info losk#38ff0aad\"},\"text\":\"losk\"}],\"text\":\"Invited FuenSUS to \"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1631387790145L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"FuenSUS\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "f1be9b3d-d966-4d04-97fb-18153b03ed7e", date: 1631388082965L, text: "{\"color\":\"green\",\"extra\":[{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info losk#38ff0aad\"},\"text\":\"losk\"}],\"text\":\"Invited zKuF to \"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1631388097247L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"zKuF\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "5cdf9440-d166-4028-b699-2f3448b011cb", date: 1631396287577L, text: "{\"text\":\"caca\"}" }
+		{ from: "f1be9b3d-d966-4d04-97fb-18153b03ed7e", date: 1631421071086L, text: "{\"color\":\"green\",\"extra\":[{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info losk#38ff0aad\"},\"text\":\"losk\"}],\"text\":\"Invited rdiaz2000 to \"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1631421078403L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"rdiaz2000\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "f1be9b3d-d966-4d04-97fb-18153b03ed7e", date: 1631572556115L, text: "{\"color\":\"green\",\"extra\":[{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info losk#38ff0aad\"},\"text\":\"losk\"}],\"text\":\"Invited sacoPapaya to \"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1631572562910L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"sacoPapaya\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

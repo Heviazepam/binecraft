@@ -1,0 +1,14 @@
+{
+	id: "5cdf9440-d166-4028-b699-2f3448b011cb"
+	type: "player"
+	player_name: "FuenSUS"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "FuenSUS"
+		"ftbteams:color": "#D3FF59"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

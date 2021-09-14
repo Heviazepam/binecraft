@@ -1,0 +1,14 @@
+{
+	id: "76063568-76d8-4ab7-a0a6-1c5079fb40ac"
+	type: "player"
+	player_name: "rdiaz2000"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "rdiaz2000"
+		"ftbteams:color": "#FF59ED"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}
