@@ -1,113 +1,113 @@
-[16:24:23.895][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
-[16:24:24.483][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+[17:54:36.426][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[17:54:36.811][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
 'aquaculture' at version '1.16.5-2.1.20'
 'crafttweaker' at version '7.1.2.416'
 'farmersdelight' at version '1.16.5-0.4.6'
 'jeitweaker' at version '1.0.1.34'
-[16:24:25.104][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
-[16:24:44.924][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
-[16:24:45.728][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
-[16:25:30.933][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
-[16:25:31.010][DONE][CLIENT][INFO] Loading file: 'recipes.zs' with priority: 10
-[16:25:31.067][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped1" that outputs: <item:minecraft:furnace>
-[16:25:31.068][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped21" that outputs: <item:terraincognita:hazel_chest>
-[16:25:31.068][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped22" that outputs: <item:quark:birch_chest>
-[16:25:31.068][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped23" that outputs: <item:quark:jungle_chest>
-[16:25:31.068][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped24" that outputs: <item:quark:birch_chest>
-[16:25:31.068][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped25" that outputs: <item:environmental:willow_chest>
-[16:25:31.069][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped26" that outputs: <item:upgrade_aquatic:driftwood_chest>
-[16:25:31.069][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped27" that outputs: <item:environmental:wisteria_chest>
-[16:25:31.069][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped28" that outputs: <item:quark:acacia_chest>
-[16:25:31.069][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped29" that outputs: <item:charm:acacia_chest>
-[16:25:31.069][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped30" that outputs: <item:quark:warped_chest>
-[16:25:31.069][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped31" that outputs: <item:environmental:willow_chest>
-[16:25:31.070][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped32" that outputs: <item:extendedmushrooms:poisonous_mushroom_chest>
-[16:25:31.070][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped33" that outputs: <item:extendedmushrooms:poisonous_mushroom_chest>
-[16:25:31.070][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped34" that outputs: <item:upgrade_aquatic:driftwood_chest>
-[16:25:31.070][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped35" that outputs: <item:environmental:wisteria_chest>
-[16:25:31.070][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped37" that outputs: <item:atmospheric:rosewood_chest>
-[16:25:31.070][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped38" that outputs: <item:atmospheric:rosewood_chest>
-[16:25:31.071][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped39" that outputs: <item:atmospheric:yucca_chest>
-[16:25:31.071][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped40" that outputs: <item:outer_end:azure_chest>
-[16:25:31.071][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped41" that outputs: <item:outer_end:azure_chest>
-[16:25:31.071][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped42" that outputs: <item:quark:warped_chest>
-[16:25:31.072][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped43" that outputs: <item:betterendforge:umbrella_tree_chest>
-[16:25:31.072][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped44" that outputs: <item:betterendforge:end_lotus_chest>
-[16:25:31.072][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped45" that outputs: <item:betterendforge:umbrella_tree_chest>
-[16:25:31.072][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped46" that outputs: <item:betterendforge:jellyshroom_chest>
-[16:25:31.072][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped47" that outputs: <item:quark:warped_chest>
-[16:25:31.072][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped48" that outputs: <item:betterendforge:mossy_glowshroom_chest>
-[16:25:31.073][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped49" that outputs: <item:atmospheric:kousa_chest>
-[16:25:31.073][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped50" that outputs: <item:quark:birch_chest>
-[16:25:31.073][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped51" that outputs: <item:extendedmushrooms:mushroom_chest>
-[16:25:31.073][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped52" that outputs: <item:betterendforge:lacugrove_chest>
-[16:25:31.073][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped53" that outputs: <item:charm:birch_chest>
-[16:25:31.073][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped54" that outputs: <item:atmospheric:grimwood_chest>
-[16:25:31.073][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped55" that outputs: <item:quark:jungle_chest>
-[16:25:31.074][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped56" that outputs: <item:charm:jungle_chest>
-[16:25:31.074][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped57" that outputs: <item:upgrade_aquatic:river_chest>
-[16:25:31.074][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped58" that outputs: <item:charm:jungle_chest>
-[16:25:31.074][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped59" that outputs: <item:minecraft:chest>
-[16:25:31.074][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped60" that outputs: <item:quark:jungle_chest>
-[16:25:31.074][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped61" that outputs: <item:atmospheric:yucca_chest>
-[16:25:31.075][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped62" that outputs: <item:betterendforge:tenanea_chest>
-[16:25:31.075][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped63" that outputs: <item:endergetic:poise_chest>
-[16:25:31.075][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped64" that outputs: <item:atmospheric:morado_chest>
-[16:25:31.075][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped65" that outputs: <item:environmental:cherry_chest>
-[16:25:31.075][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped66" that outputs: <item:charm:birch_chest>
-[16:25:31.076][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped67" that outputs: <item:charm:oak_chest>
-[16:25:31.077][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped69" that outputs: <item:byg:cika_crafting_table>
-[16:25:31.077][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped70" that outputs: <item:byg:zelkova_crafting_table>
-[16:25:31.077][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped72" that outputs: <item:byg:cika_bookshelf>
-[16:25:31.077][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped73" that outputs: <item:byg:zelkova_bookshelf>
-[16:25:31.077][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped74" that outputs: <item:charm:jungle_bookshelf>
-[16:25:31.078][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped75" that outputs: <item:quark:jungle_bookshelf>
-[16:25:31.078][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped76" that outputs: <item:byg:embur_crafting_table>
-[16:25:31.078][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped77" that outputs: <item:byg:embur_bookshelf>
-[16:25:31.078][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:shaped78" that outputs: <item:minecraft:andesite>
-[16:25:31.078][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:shaped79" that outputs: <item:minecraft:cobblestone>
-[16:25:31.079][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:shaped80" that outputs: <item:minecraft:granite>
-[16:25:31.079][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped83" that outputs: <item:betterendforge:mossy_glowshroom_chest>
-[16:25:31.079][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped84" that outputs: <item:quark:warped_chest>
-[16:25:31.079][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped85" that outputs: <item:atmospheric:kousa_chest>
-[16:25:31.079][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped86" that outputs: <item:atmospheric:grimwood_chest>
-[16:25:31.079][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped87" that outputs: <item:quark:jungle_chest>
-[16:25:31.079][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped88" that outputs: <item:betterendforge:umbrella_tree_crafting_table>
-[16:25:31.080][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped90" that outputs: <item:byg:embur_crafting_table>
-[16:25:31.080][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped91" that outputs: <item:byg:embur_crafting_table>
-[16:25:31.080][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped92" that outputs: <item:quark:warped_bookshelf>
-[16:25:31.080][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped93" that outputs: <item:charm:warped_bookshelf>
-[16:25:31.080][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped94" that outputs: <item:upgrade_aquatic:river_bookshelf>
-[16:25:31.080][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped95" that outputs: <item:terraincognita:hazel_bookshelf>
-[16:25:31.080][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped102" that outputs: <item:byg:maple_crafting_table>
-[16:25:31.081][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped103" that outputs: <item:byg:mahogany_crafting_table>
-[16:25:31.081][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped105" that outputs: <item:minecraft:crafting_table>
-[16:25:31.081][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped108" that outputs: <item:betterendforge:lucernia_crafting_table>
-[16:25:31.083][DONE][CLIENT][INFO] Adding "minecraft:smithing" recipe, with name: "crafttweaker:gold_upgraded_netherite_shield" that outputs: <item:upgradednetherite:gold_upgraded_netherite_shield>
-[16:25:31.083][DONE][CLIENT][INFO] Adding "minecraft:smithing" recipe, with name: "crafttweaker:phantom_upgraded_netherite_shield" that outputs: <item:upgradednetherite:phantom_upgraded_netherite_shield>
-[16:25:31.083][DONE][CLIENT][INFO] Adding "minecraft:smithing" recipe, with name: "crafttweaker:fire_upgraded_netherite_shield" that outputs: <item:upgradednetherite:fire_upgraded_netherite_shield>
-[16:25:31.084][DONE][CLIENT][INFO] Adding "minecraft:smithing" recipe, with name: "crafttweaker:ender_upgraded_netherite_shield" that outputs: <item:upgradednetherite:ender_upgraded_netherite_shield>
-[16:25:31.084][DONE][CLIENT][INFO] Adding "minecraft:smithing" recipe, with name: "crafttweaker:water_upgraded_netherite_shield" that outputs: <item:upgradednetherite:water_upgraded_netherite_shield>
-[16:25:31.084][DONE][CLIENT][INFO] Adding "minecraft:smithing" recipe, with name: "crafttweaker:wither_upgraded_netherite_shield" that outputs: <item:upgradednetherite:wither_upgraded_netherite_shield>
-[16:25:31.084][DONE][CLIENT][INFO] Adding "minecraft:smithing" recipe, with name: "crafttweaker:poison_upgraded_netherite_shield" that outputs: <item:upgradednetherite:poison_upgraded_netherite_shield>
-[16:25:31.084][DONE][CLIENT][INFO] Adding "minecraft:smithing" recipe, with name: "crafttweaker:ultimate_upgraded_netherite_shield" that outputs: <item:upgradednetherite:ultimate_upgraded_netherite_shield>
-[16:25:31.089][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:village_employment:iron_golem_helmet>"
-[16:25:31.095][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:village_employment:iron_golem_chestplate>"
-[16:25:31.099][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:village_employment:iron_golem_leggings>"
-[16:25:31.103][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:village_employment:iron_golem_boots>"
-[16:25:31.107][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped109" that outputs: <item:minecraft:chest>
-[16:25:31.108][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:chest" that outputs: <item:minecraft:chest>
-[16:25:31.108][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:chest1" that outputs: <item:minecraft:chest>
-[16:25:31.108][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped110" that outputs: <item:minecraft:crafting_table>
-[16:25:31.108][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:minecraft:totem_of_undying>"
-[16:25:31.112][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:patchouli:guide_book>"
-[16:25:31.116][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:village_employment:orb_of_dominance_staff>"
-[16:25:31.119][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:village_employment:orb_of_dominance>"
-[16:25:31.122][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:theabyss:auto_smelt_pick_axe>"
-[16:25:31.125][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:theabyss:abyssportalstone>"
-[16:25:31.128][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:pyromancer:vaporizer>"
-[16:25:31.130][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:netheragriculture:knife>"
-[16:25:31.133][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:netheragriculture:diamond_knife>"
-[16:25:31.136][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:netheragriculture:netherite_knife>"
-[16:25:31.139][DONE][CLIENT][INFO] Finished loading Scripts!
-[16:25:31.143][DONE][CLIENT][INFO] This reload was made possible by AdaraChristine and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[17:54:37.229][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[17:54:47.313][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
+[17:54:47.800][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
+[17:55:15.466][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[17:55:15.515][DONE][CLIENT][INFO] Loading file: 'recipes.zs' with priority: 10
+[17:55:15.563][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped1" that outputs: <item:minecraft:furnace>
+[17:55:15.564][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped21" that outputs: <item:terraincognita:hazel_chest>
+[17:55:15.564][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped22" that outputs: <item:quark:birch_chest>
+[17:55:15.564][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped23" that outputs: <item:quark:jungle_chest>
+[17:55:15.565][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped24" that outputs: <item:quark:birch_chest>
+[17:55:15.565][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped25" that outputs: <item:environmental:willow_chest>
+[17:55:15.565][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped26" that outputs: <item:upgrade_aquatic:driftwood_chest>
+[17:55:15.565][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped27" that outputs: <item:environmental:wisteria_chest>
+[17:55:15.565][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped28" that outputs: <item:quark:acacia_chest>
+[17:55:15.566][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped29" that outputs: <item:charm:acacia_chest>
+[17:55:15.566][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped30" that outputs: <item:quark:warped_chest>
+[17:55:15.566][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped31" that outputs: <item:environmental:willow_chest>
+[17:55:15.566][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped32" that outputs: <item:extendedmushrooms:poisonous_mushroom_chest>
+[17:55:15.566][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped33" that outputs: <item:extendedmushrooms:poisonous_mushroom_chest>
+[17:55:15.567][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped34" that outputs: <item:upgrade_aquatic:driftwood_chest>
+[17:55:15.567][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped35" that outputs: <item:environmental:wisteria_chest>
+[17:55:15.567][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped37" that outputs: <item:atmospheric:rosewood_chest>
+[17:55:15.567][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped38" that outputs: <item:atmospheric:rosewood_chest>
+[17:55:15.568][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped39" that outputs: <item:atmospheric:yucca_chest>
+[17:55:15.568][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped40" that outputs: <item:outer_end:azure_chest>
+[17:55:15.568][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped41" that outputs: <item:outer_end:azure_chest>
+[17:55:15.568][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped42" that outputs: <item:quark:warped_chest>
+[17:55:15.568][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped43" that outputs: <item:betterendforge:umbrella_tree_chest>
+[17:55:15.569][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped44" that outputs: <item:betterendforge:end_lotus_chest>
+[17:55:15.569][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped45" that outputs: <item:betterendforge:umbrella_tree_chest>
+[17:55:15.569][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped46" that outputs: <item:betterendforge:jellyshroom_chest>
+[17:55:15.570][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped47" that outputs: <item:quark:warped_chest>
+[17:55:15.570][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped48" that outputs: <item:betterendforge:mossy_glowshroom_chest>
+[17:55:15.570][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped49" that outputs: <item:atmospheric:kousa_chest>
+[17:55:15.570][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped50" that outputs: <item:quark:birch_chest>
+[17:55:15.571][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped51" that outputs: <item:extendedmushrooms:mushroom_chest>
+[17:55:15.571][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped52" that outputs: <item:betterendforge:lacugrove_chest>
+[17:55:15.571][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped53" that outputs: <item:charm:birch_chest>
+[17:55:15.571][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped54" that outputs: <item:atmospheric:grimwood_chest>
+[17:55:15.571][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped55" that outputs: <item:quark:jungle_chest>
+[17:55:15.572][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped56" that outputs: <item:charm:jungle_chest>
+[17:55:15.572][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped57" that outputs: <item:upgrade_aquatic:river_chest>
+[17:55:15.572][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped58" that outputs: <item:charm:jungle_chest>
+[17:55:15.572][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped59" that outputs: <item:minecraft:chest>
+[17:55:15.573][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped60" that outputs: <item:quark:jungle_chest>
+[17:55:15.573][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped61" that outputs: <item:atmospheric:yucca_chest>
+[17:55:15.573][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped62" that outputs: <item:betterendforge:tenanea_chest>
+[17:55:15.573][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped63" that outputs: <item:endergetic:poise_chest>
+[17:55:15.573][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped64" that outputs: <item:atmospheric:morado_chest>
+[17:55:15.574][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped65" that outputs: <item:environmental:cherry_chest>
+[17:55:15.574][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped66" that outputs: <item:charm:birch_chest>
+[17:55:15.574][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped67" that outputs: <item:charm:oak_chest>
+[17:55:15.574][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped69" that outputs: <item:byg:cika_crafting_table>
+[17:55:15.574][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped70" that outputs: <item:byg:zelkova_crafting_table>
+[17:55:15.575][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped72" that outputs: <item:byg:cika_bookshelf>
+[17:55:15.575][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped73" that outputs: <item:byg:zelkova_bookshelf>
+[17:55:15.575][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped74" that outputs: <item:charm:jungle_bookshelf>
+[17:55:15.575][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped75" that outputs: <item:quark:jungle_bookshelf>
+[17:55:15.575][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped76" that outputs: <item:byg:embur_crafting_table>
+[17:55:15.576][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped77" that outputs: <item:byg:embur_bookshelf>
+[17:55:15.576][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:shaped78" that outputs: <item:minecraft:andesite>
+[17:55:15.576][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:shaped79" that outputs: <item:minecraft:cobblestone>
+[17:55:15.576][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:shaped80" that outputs: <item:minecraft:granite>
+[17:55:15.577][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped83" that outputs: <item:betterendforge:mossy_glowshroom_chest>
+[17:55:15.577][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped84" that outputs: <item:quark:warped_chest>
+[17:55:15.577][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped85" that outputs: <item:atmospheric:kousa_chest>
+[17:55:15.577][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped86" that outputs: <item:atmospheric:grimwood_chest>
+[17:55:15.577][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped87" that outputs: <item:quark:jungle_chest>
+[17:55:15.578][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped88" that outputs: <item:betterendforge:umbrella_tree_crafting_table>
+[17:55:15.578][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped90" that outputs: <item:byg:embur_crafting_table>
+[17:55:15.578][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped91" that outputs: <item:byg:embur_crafting_table>
+[17:55:15.578][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped92" that outputs: <item:quark:warped_bookshelf>
+[17:55:15.578][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped93" that outputs: <item:charm:warped_bookshelf>
+[17:55:15.579][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped94" that outputs: <item:upgrade_aquatic:river_bookshelf>
+[17:55:15.579][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped95" that outputs: <item:terraincognita:hazel_bookshelf>
+[17:55:15.579][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped102" that outputs: <item:byg:maple_crafting_table>
+[17:55:15.579][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped103" that outputs: <item:byg:mahogany_crafting_table>
+[17:55:15.579][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped105" that outputs: <item:minecraft:crafting_table>
+[17:55:15.580][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped108" that outputs: <item:betterendforge:lucernia_crafting_table>
+[17:55:15.582][DONE][CLIENT][INFO] Adding "minecraft:smithing" recipe, with name: "crafttweaker:gold_upgraded_netherite_shield" that outputs: <item:upgradednetherite:gold_upgraded_netherite_shield>
+[17:55:15.582][DONE][CLIENT][INFO] Adding "minecraft:smithing" recipe, with name: "crafttweaker:phantom_upgraded_netherite_shield" that outputs: <item:upgradednetherite:phantom_upgraded_netherite_shield>
+[17:55:15.582][DONE][CLIENT][INFO] Adding "minecraft:smithing" recipe, with name: "crafttweaker:fire_upgraded_netherite_shield" that outputs: <item:upgradednetherite:fire_upgraded_netherite_shield>
+[17:55:15.583][DONE][CLIENT][INFO] Adding "minecraft:smithing" recipe, with name: "crafttweaker:ender_upgraded_netherite_shield" that outputs: <item:upgradednetherite:ender_upgraded_netherite_shield>
+[17:55:15.583][DONE][CLIENT][INFO] Adding "minecraft:smithing" recipe, with name: "crafttweaker:water_upgraded_netherite_shield" that outputs: <item:upgradednetherite:water_upgraded_netherite_shield>
+[17:55:15.583][DONE][CLIENT][INFO] Adding "minecraft:smithing" recipe, with name: "crafttweaker:wither_upgraded_netherite_shield" that outputs: <item:upgradednetherite:wither_upgraded_netherite_shield>
+[17:55:15.583][DONE][CLIENT][INFO] Adding "minecraft:smithing" recipe, with name: "crafttweaker:poison_upgraded_netherite_shield" that outputs: <item:upgradednetherite:poison_upgraded_netherite_shield>
+[17:55:15.583][DONE][CLIENT][INFO] Adding "minecraft:smithing" recipe, with name: "crafttweaker:ultimate_upgraded_netherite_shield" that outputs: <item:upgradednetherite:ultimate_upgraded_netherite_shield>
+[17:55:15.588][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:village_employment:iron_golem_helmet>"
+[17:55:15.594][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:village_employment:iron_golem_chestplate>"
+[17:55:15.598][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:village_employment:iron_golem_leggings>"
+[17:55:15.600][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:village_employment:iron_golem_boots>"
+[17:55:15.603][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped109" that outputs: <item:minecraft:chest>
+[17:55:15.604][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:chest" that outputs: <item:minecraft:chest>
+[17:55:15.604][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:chest1" that outputs: <item:minecraft:chest>
+[17:55:15.604][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:shaped110" that outputs: <item:minecraft:crafting_table>
+[17:55:15.604][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:minecraft:totem_of_undying>"
+[17:55:15.607][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:patchouli:guide_book>"
+[17:55:15.610][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:village_employment:orb_of_dominance_staff>"
+[17:55:15.612][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:village_employment:orb_of_dominance>"
+[17:55:15.614][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:theabyss:auto_smelt_pick_axe>"
+[17:55:15.615][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:theabyss:abyssportalstone>"
+[17:55:15.617][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:pyromancer:vaporizer>"
+[17:55:15.619][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:netheragriculture:knife>"
+[17:55:15.620][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:netheragriculture:diamond_knife>"
+[17:55:15.622][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:netheragriculture:netherite_knife>"
+[17:55:15.623][DONE][CLIENT][INFO] Finished loading Scripts!
+[17:55:15.626][DONE][CLIENT][INFO] This reload was made possible by NickT and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod

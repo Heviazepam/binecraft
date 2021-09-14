@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2021-09-14 18:21:28 -0300"
+    },
+    "done": true
+  },
   "campful:recipes/campfire/cypress_campfire": {
     "criteria": {
       "has_coal": "2021-09-11 18:07:13 -0300"
@@ -731,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2021-09-14 18:22:21 -0300"
+    },
+    "done": true
+  },
   "simplefarming:root": {
     "criteria": {
       "pickup_seed": "2021-09-11 19:00:49 -0300"
@@ -935,6 +947,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "has_item": "2021-09-14 18:21:28 -0300"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/thallasium_shovel_smithing": {
     "criteria": {
       "has_stick": "2021-09-11 18:32:36 -0300"
@@ -1022,6 +1040,12 @@
   "adorn:recipes/stone_brick_post": {
     "criteria": {
       "has_key_item_0": "2021-09-11 20:27:02 -0300"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_paper": "2021-09-14 18:21:28 -0300"
     },
     "done": true
   },
@@ -1145,6 +1169,12 @@
     },
     "done": true
   },
+  "cavesandcliffs:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2021-09-14 18:21:28 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2021-09-13 01:43:19 -0300"
@@ -1262,6 +1292,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2021-09-11 18:31:19 -0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_misc/cooked_monitor_tail_from_smoking": {
+    "criteria": {
+      "has_item": "2021-09-14 18:19:14 -0300"
     },
     "done": true
   },
@@ -1415,6 +1451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2021-09-14 18:21:28 -0300"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/turquoise_stone_shovel": {
     "criteria": {
       "has_resource": "2021-09-12 02:29:33 -0300"
@@ -1502,6 +1544,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/frostbright_crafting_table": {
     "criteria": {
       "has_item": "2021-09-12 02:31:40 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cabbage": {
+    "criteria": {
+      "has_cabbage_crate": "2021-09-14 18:38:31 -0300"
     },
     "done": true
   },
@@ -1805,6 +1853,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2021-09-14 18:43:10 -0300"
+    },
+    "done": true
+  },
   "campful:recipes/campfire/rosewood_campfire": {
     "criteria": {
       "has_coal": "2021-09-11 18:07:13 -0300"
@@ -1997,6 +2051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2021-09-14 18:22:21 -0300"
+    },
+    "done": true
+  },
   "adorn:recipes/picket_fence": {
     "criteria": {
       "has_key_item_0": "2021-09-11 18:31:19 -0300"
@@ -2063,6 +2123,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_misc/scalefruit_seeds": {
+    "criteria": {
+      "has_item": "2021-09-14 18:22:32 -0300"
+    },
+    "done": true
+  },
   "variant16x:recipes/redstone/cyan_terracotta_button": {
     "criteria": {
       "has_cyan_terracotta": "2021-09-12 00:56:41 -0300"
@@ -2125,10 +2191,14 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_fence": "2021-09-14 18:47:13 -0300",
       "time_stairs": "2021-09-13 23:31:34 -0300",
+      "twilight_oak_planks": "2021-09-14 18:48:32 -0300",
       "twilight_oak_log": "2021-09-13 23:18:06 -0300",
       "twilight_oak_wood": "2021-09-13 23:17:50 -0300",
       "twilight_oak_sapling": "2021-09-13 23:18:50 -0300",
+      "twilight_oak_gate": "2021-09-14 18:47:13 -0300",
+      "twilight_oak_slab": "2021-09-14 18:47:13 -0300",
       "canopy_sapling": "2021-09-13 23:16:03 -0300"
     },
     "done": false
@@ -2160,6 +2230,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-09-11 21:52:21 -0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_misc/cooked_monitor_tail_from_smelting": {
+    "criteria": {
+      "has_item": "2021-09-14 18:19:14 -0300"
     },
     "done": true
   },
@@ -2322,6 +2398,12 @@
   "blue_skies:recipes/blue_skies_tools/diopside_sword": {
     "criteria": {
       "has_resource": "2021-09-12 22:22:41 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2021-09-14 18:43:10 -0300"
     },
     "done": true
   },
@@ -2567,6 +2649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2021-09-14 18:21:28 -0300"
+    },
+    "done": true
+  },
   "campful:recipes/campfire/wisteria_campfire": {
     "criteria": {
       "has_coal": "2021-09-11 18:07:13 -0300"
@@ -2697,6 +2785,12 @@
   "blue_skies:recipes/blue_skies_tools/frostbright_axe": {
     "criteria": {
       "has_resource": "2021-09-12 02:31:40 -0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/light_gray_dye_from_crystal_flower": {
+    "criteria": {
+      "has_item": "2021-09-14 18:20:07 -0300"
     },
     "done": true
   },
@@ -3021,6 +3115,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-09-11 22:16:10 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_twilight_oak_tf": {
+    "criteria": {
+      "has_plank": "2021-09-14 18:48:32 -0300"
     },
     "done": true
   },
@@ -3766,6 +3866,12 @@
   "blue_skies:recipes/blue_skies_misc/charoite_from_blasting": {
     "criteria": {
       "has_item": "2021-09-12 22:22:45 -0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_misc/cooked_monitor_tail_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2021-09-14 18:19:14 -0300"
     },
     "done": true
   },
@@ -4615,6 +4721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2021-09-14 18:21:28 -0300"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "has_item": "2021-09-11 18:31:19 -0300"
@@ -4768,6 +4880,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2021-09-11 19:38:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2021-09-14 18:21:28 -0300"
     },
     "done": true
   },
@@ -5052,6 +5170,12 @@
   "betterendforge:recipes/betterendforge/infusion_pedestal": {
     "criteria": {
       "has_ender_pearl": "2021-09-11 20:25:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2021-09-14 18:21:28 -0300"
     },
     "done": true
   },
@@ -5711,7 +5835,9 @@
   },
   "blue_skies:everdawn/kill_bug": {
     "criteria": {
+      "kill_emberback": "2021-09-14 18:18:25 -0300",
       "kill_infested_swarmer": "2021-09-12 22:05:50 -0300",
+      "kill_nyctofly": "2021-09-14 18:30:58 -0300",
       "kill_venom_spider": "2021-09-12 22:01:41 -0300"
     },
     "done": false
@@ -5809,6 +5935,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2021-09-12 22:50:29 -0300",
+      "tomato": "2021-09-14 18:44:03 -0300",
       "potato": "2021-09-12 22:51:13 -0300",
       "carrot": "2021-09-12 22:51:05 -0300"
     },
@@ -6066,6 +6193,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_twilight_oak_tf": {
+    "criteria": {
+      "has_plank": "2021-09-14 18:48:32 -0300"
+    },
+    "done": true
+  },
   "dungeons_arise:find_monasteries": {
     "criteria": {
       "location0": "2021-09-12 02:15:15 -0300"
@@ -6318,6 +6451,12 @@
       "in_ruins_land_warm": "2021-09-11 22:07:43 -0300"
     },
     "done": false
+  },
+  "blue_skies:recipes/blue_skies_combat/moonstone_shield": {
+    "criteria": {
+      "has_item": "2021-09-14 18:18:00 -0300"
+    },
+    "done": true
   },
   "extendedmushrooms:recipes/misc/mushroom_spores": {
     "criteria": {
