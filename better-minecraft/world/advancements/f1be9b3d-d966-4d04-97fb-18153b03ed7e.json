@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2021-09-14 23:22:51 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2021-09-11 16:25:37 -0300"
@@ -311,6 +317,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/aquaculture/worm_farm": {
+    "criteria": {
+      "has_items": "2021-09-14 23:24:35 -0300"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/taratite_wall": {
     "criteria": {
       "has_item": "2021-09-12 02:34:31 -0300"
@@ -338,6 +350,12 @@
   "blue_skies:recipes/blue_skies_tools/aquite_sword": {
     "criteria": {
       "has_resource": "2021-09-12 22:10:23 -0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2021-09-14 23:22:51 -0300"
     },
     "done": true
   },
@@ -452,6 +470,12 @@
   "blue_skies:everdawn/get_wood": {
     "criteria": {
       "has_dusk_log": "2021-09-12 21:57:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2021-09-14 23:22:51 -0300"
     },
     "done": true
   },
@@ -686,6 +710,12 @@
   "supplementaries:recipes/flute": {
     "criteria": {
       "has_item": "2021-09-12 22:55:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2021-09-14 23:08:22 -0300"
     },
     "done": true
   },
@@ -1109,6 +1139,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_fishing_rod": "2021-09-14 23:28:06 -0300"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_mossy_cobblestone": "2021-09-11 17:19:39 -0300"
@@ -1127,9 +1163,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2021-09-14 23:31:22 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2021-09-12 01:31:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2021-09-14 23:22:51 -0300"
     },
     "done": true
   },
@@ -1157,6 +1205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2021-09-14 23:08:27 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2021-09-11 16:25:37 -0300"
@@ -1178,6 +1232,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_hoe": "2021-09-13 23:28:54 -0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/bobber": {
+    "criteria": {
+      "has_items": "2021-09-14 23:24:35 -0300"
     },
     "done": true
   },
@@ -1463,6 +1523,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_mahogany": {
+    "criteria": {
+      "has_plank": "2021-09-14 23:20:14 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2021-09-11 17:22:21 -0300"
@@ -1496,6 +1562,12 @@
   "variant16x:recipes/redstone/birch_wood_fence_gate": {
     "criteria": {
       "has_birch_log": "2021-09-12 01:48:14 -0300"
+    },
+    "done": true
+  },
+  "savageandravage:adventure/creeper_spores": {
+    "criteria": {
+      "creeper_spores": "2021-09-15 00:02:32 -0300"
     },
     "done": true
   },
@@ -1604,6 +1676,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2021-09-12 22:56:48 -0300"
+    },
+    "done": true
+  },
+  "adorn:recipes/byg/mahogany_post": {
+    "criteria": {
+      "has_key_item_0": "2021-09-14 23:20:14 -0300"
     },
     "done": true
   },
@@ -1871,6 +1949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2021-09-14 23:08:22 -0300"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2021-09-11 16:07:58 -0300"
@@ -1942,6 +2026,12 @@
   "campful:recipes/campfire/wisteria_campfire": {
     "criteria": {
       "has_stick": "2021-09-11 16:14:35 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_mahogany": {
+    "criteria": {
+      "has_plank": "2021-09-14 23:20:14 -0300"
     },
     "done": true
   },
@@ -2269,6 +2359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2021-09-14 23:08:22 -0300"
+    },
+    "done": true
+  },
   "variant16x:recipes/building_blocks/oak_wood_slab": {
     "criteria": {
       "has_oak_log": "2021-09-12 02:00:34 -0300"
@@ -2407,6 +2503,12 @@
     },
     "done": true
   },
+  "exoticbirds:default/place_nest": {
+    "criteria": {
+      "place_nest": "2021-09-14 22:14:40 -0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/diamond_knife": {
     "criteria": {
       "has_diamond": "2021-09-11 16:47:29 -0300"
@@ -2428,6 +2530,12 @@
   "supplementaries:recipes/sign_post_rainbow_eucalyptus": {
     "criteria": {
       "has_plank": "2021-09-12 23:00:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2021-09-14 23:22:02 -0300"
     },
     "done": true
   },
@@ -2494,6 +2602,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2021-09-11 16:25:37 -0300"
+    },
+    "done": true
+  },
+  "adorn:recipes/byg/mahogany_kitchen_counter": {
+    "criteria": {
+      "has_key_item_0": "2021-09-14 23:20:14 -0300"
     },
     "done": true
   },
@@ -2738,6 +2852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2021-09-14 23:08:23 -0300"
+    },
+    "done": true
+  },
   "extendedmushrooms:recipes/food/mushroom_bread": {
     "criteria": {
       "has_mushroom": "2021-09-13 23:14:44 -0300"
@@ -2843,6 +2963,12 @@
   "farmersdelight:recipes/farmersdelight/raw_pasta_from_eggs": {
     "criteria": {
       "has_wheat": "2021-09-13 23:23:03 -0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_fishing_rod": "2021-09-14 23:28:06 -0300"
     },
     "done": true
   },
@@ -3064,10 +3190,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2021-09-15 00:00:39 -0300",
       "minecraft:spider": "2021-09-12 01:18:04 -0300",
       "minecraft:creeper": "2021-09-11 16:29:23 -0300",
+      "minecraft:phantom": "2021-09-14 23:03:04 -0300",
       "minecraft:stray": "2021-09-11 17:23:38 -0300",
-      "minecraft:zombie": "2021-09-11 16:29:29 -0300"
+      "minecraft:zombie": "2021-09-11 16:29:29 -0300",
+      "minecraft:drowned": "2021-09-15 00:04:11 -0300"
     },
     "done": false
   },
@@ -3188,6 +3317,12 @@
   "blue_skies:recipes/blue_skies_tools/lunar_stone_hoe": {
     "criteria": {
       "has_resource": "2021-09-12 22:03:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2021-09-14 23:08:27 -0300"
     },
     "done": true
   },
@@ -3799,6 +3934,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/aquaculture/double_hook": {
+    "criteria": {
+      "has_the_recipe": "2021-09-14 23:21:53 -0300"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_blocks/moonstone_pressure_plate": {
     "criteria": {
       "has_item": "2021-09-12 02:33:06 -0300"
@@ -3967,6 +4108,12 @@
     },
     "done": true
   },
+  "adorn:recipes/byg/mahogany_kitchen_sink": {
+    "criteria": {
+      "has_key_item_0": "2021-09-14 23:20:14 -0300"
+    },
+    "done": true
+  },
   "adorn:recipes/stone_brick_platform": {
     "criteria": {
       "has_key_item_0": "2021-09-13 23:40:55 -0300"
@@ -4122,6 +4269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2021-09-14 23:08:27 -0300"
+    },
+    "done": true
+  },
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_plank": "2021-09-11 17:12:00 -0300"
@@ -4161,6 +4314,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2021-09-11 17:01:49 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2021-09-14 23:08:22 -0300"
     },
     "done": true
   },
@@ -4281,6 +4440,12 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2021-09-13 23:08:14 -0300"
+    },
+    "done": true
+  },
+  "adorn:recipes/byg/mahogany_kitchen_cupboard": {
+    "criteria": {
+      "has_key_item_0": "2021-09-14 23:20:14 -0300"
     },
     "done": true
   },
@@ -4473,6 +4638,18 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-09-11 16:29:20 -0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/fishing_line": {
+    "criteria": {
+      "has_items": "2021-09-14 23:24:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2021-09-14 23:22:02 -0300"
     },
     "done": true
   },
@@ -4939,6 +5116,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/aquaculture/iron_hook": {
+    "criteria": {
+      "has_the_recipe": "2021-09-14 23:21:45 -0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2021-09-11 17:12:00 -0300"
@@ -4960,6 +5143,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stone_slab": {
     "criteria": {
       "has_item": "2021-09-13 19:54:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2021-09-14 22:16:37 -0300"
     },
     "done": true
   },

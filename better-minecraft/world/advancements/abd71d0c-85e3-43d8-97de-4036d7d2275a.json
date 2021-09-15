@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "variant16x:recipes/building_blocks/obsidian_stairs": {
+    "criteria": {
+      "has_obsidian": "2021-09-14 22:49:50 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2021-09-11 19:09:45 -0300"
@@ -95,9 +101,21 @@
     },
     "done": true
   },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "kill_mob": "2021-09-14 22:08:21 -0300"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2021-09-11 19:34:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2021-09-14 22:50:18 -0300"
     },
     "done": true
   },
@@ -317,6 +335,12 @@
     },
     "done": true
   },
+  "variant16x:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2021-09-14 22:49:50 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2021-09-11 19:09:45 -0300"
@@ -338,6 +362,12 @@
   "blue_skies:recipes/blue_skies_tools/aquite_sword": {
     "criteria": {
       "has_resource": "2021-09-13 20:21:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2021-09-14 22:50:18 -0300"
     },
     "done": true
   },
@@ -410,6 +440,12 @@
   "blue_skies:recipes/misc/blue_dye_from_nightcress": {
     "criteria": {
       "has_item": "2021-09-13 19:40:44 -0300"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2021-09-14 22:50:18 -0300"
     },
     "done": true
   },
@@ -577,6 +613,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "savageandravage:iceologer": "2021-09-14 22:51:29 -0300",
       "minecraft:zombie": "2021-09-13 01:34:36 -0300"
     },
     "done": false
@@ -659,6 +696,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "tiny_bird": "2021-09-14 22:08:21 -0300"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pulley_block": {
     "criteria": {
       "has_plank": "2021-09-11 19:09:45 -0300"
@@ -686,6 +729,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2021-09-14 21:38:14 -0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/raven": {
+    "criteria": {
+      "slay": "2021-09-14 22:08:44 -0300"
     },
     "done": true
   },
@@ -728,6 +777,12 @@
   "blue_skies:recipes/blue_skies_tools/lunar_stone_pickaxe": {
     "criteria": {
       "has_resource": "2021-09-13 19:51:03 -0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/naga_courtyard": {
+    "criteria": {
+      "discover": "2021-09-14 22:08:02 -0300"
     },
     "done": true
   },
@@ -1055,6 +1110,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2021-09-14 22:50:18 -0300"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/horizonite_axe": {
     "criteria": {
       "has_resource": "2021-09-13 20:21:07 -0300"
@@ -1148,6 +1209,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_stonebrick_stairs_stonecutting_turquoise_stonebrick": {
     "criteria": {
       "has_item": "2021-09-13 02:24:16 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2021-09-14 22:50:18 -0300"
     },
     "done": true
   },
@@ -1268,6 +1335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2021-09-14 22:39:58 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2021-09-11 19:49:17 -0300"
@@ -1301,6 +1374,12 @@
   "cavesandcliffs:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2021-09-13 02:04:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2021-09-14 22:50:18 -0300"
     },
     "done": true
   },
@@ -1388,6 +1467,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2021-09-14 22:50:18 -0300"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_combat/horizonite_chestplate": {
     "criteria": {
       "has_item": "2021-09-13 20:21:07 -0300"
@@ -1421,6 +1506,24 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-09-11 19:49:17 -0300"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2021-09-14 22:49:50 -0300"
+    },
+    "done": true
+  },
+  "variant16x:recipes/redstone/obsidian_button": {
+    "criteria": {
+      "has_obsidian": "2021-09-14 22:49:50 -0300"
+    },
+    "done": true
+  },
+  "variant16x:recipes/redstone/obsidian_pressure_plate": {
+    "criteria": {
+      "has_obsidian": "2021-09-14 22:49:50 -0300"
     },
     "done": true
   },
@@ -1622,6 +1725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2021-09-14 22:49:50 -0300"
+    },
+    "done": true
+  },
   "adorn:recipes/picket_fence": {
     "criteria": {
       "has_key_item_0": "2021-09-11 19:34:42 -0300"
@@ -1670,6 +1779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2021-09-14 22:10:19 -0300"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hanging_sign_oak": {
     "criteria": {
       "has_plank": "2021-09-11 19:34:42 -0300"
@@ -1698,6 +1813,12 @@
   "blue_skies:recipes/blue_skies_tools/maple_pickaxe": {
     "criteria": {
       "has_resource": "2021-09-13 19:59:37 -0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_misc/scalefruit_seeds": {
+    "criteria": {
+      "has_item": "2021-09-14 22:56:02 -0300"
     },
     "done": true
   },
@@ -1769,6 +1890,7 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_wood": "2021-09-14 22:11:09 -0300",
       "canopy_log": "2021-09-14 21:49:42 -0300",
       "canopy_sapling": "2021-09-14 21:49:44 -0300"
     },
@@ -1816,6 +1938,18 @@
     },
     "done": true
   },
+  "variant16x:recipes/decorations/obsidian_wall": {
+    "criteria": {
+      "has_obsidian": "2021-09-14 22:49:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2021-09-14 22:50:18 -0300"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-09-13 02:04:54 -0300"
@@ -1858,6 +1992,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/twilight_forest": {
+    "criteria": {
+      "discover": "2021-09-14 22:07:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2021-09-13 01:42:40 -0300"
@@ -1879,6 +2019,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/cracked_lunar_stonebrick_from_smelting": {
     "criteria": {
       "has_item": "2021-09-13 19:36:15 -0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/animals": {
+    "criteria": {
+      "3": "2021-09-14 22:08:44 -0300"
     },
     "done": true
   },
@@ -1978,6 +2124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2021-09-14 22:49:50 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2021-09-11 19:09:45 -0300"
@@ -2017,6 +2169,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2021-09-11 19:05:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2021-09-14 22:50:18 -0300"
     },
     "done": true
   },
@@ -2096,6 +2254,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_planks": {
     "criteria": {
       "has_item": "2021-09-13 19:38:17 -0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/tiny_bird": {
+    "criteria": {
+      "slay": "2021-09-14 22:08:21 -0300"
     },
     "done": true
   },
@@ -2249,9 +2413,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2021-09-14 22:17:25 -0300"
+    },
+    "done": false
+  },
   "campful:recipes/campfire/crimson_campfire": {
     "criteria": {
       "has_stick": "2021-09-11 19:28:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2021-09-14 22:10:19 -0300"
     },
     "done": true
   },
@@ -2276,6 +2452,12 @@
   "campful:recipes/campfire/warped_campfire": {
     "criteria": {
       "has_stick": "2021-09-11 19:28:22 -0300"
+    },
+    "done": true
+  },
+  "variant16x:recipes/building_blocks/obsidian_slab_from_obsidian_stonecutting": {
+    "criteria": {
+      "has_obsidian": "2021-09-14 22:49:50 -0300"
     },
     "done": true
   },
@@ -2477,6 +2659,12 @@
     },
     "done": true
   },
+  "variant16x:recipes/decorations/obsidian_wall_from_obsidian_stonecutting": {
+    "criteria": {
+      "has_obsidian": "2021-09-14 22:49:50 -0300"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/maple_hoe": {
     "criteria": {
       "has_resource": "2021-09-13 19:59:37 -0300"
@@ -2537,6 +2725,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-09-14 22:49:50 -0300"
+    },
+    "done": true
+  },
   "campful:recipes/campfire/acacia_campfire": {
     "criteria": {
       "has_stick": "2021-09-11 19:28:22 -0300"
@@ -2546,6 +2740,12 @@
   "blue_skies:recipes/blue_skies_tools/horizonite_hoe": {
     "criteria": {
       "has_resource": "2021-09-13 20:21:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2021-09-14 22:50:18 -0300"
     },
     "done": true
   },
@@ -2664,9 +2864,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/moonstone_shield": {
+    "criteria": {
+      "has_item": "2021-09-14 23:00:22 -0300"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/maple_fence_gate": {
     "criteria": {
       "has_item": "2021-09-13 19:59:37 -0300"
+    },
+    "done": true
+  },
+  "variant16x:recipes/building_blocks/obsidian_stairs_from_obsidian_stonecutting": {
+    "criteria": {
+      "has_obsidian": "2021-09-14 22:49:50 -0300"
     },
     "done": true
   },
@@ -2700,6 +2912,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/onion_crate": {
+    "criteria": {
+      "has_onion": "2021-09-14 22:09:41 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2021-09-11 19:09:45 -0300"
@@ -2715,6 +2933,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2021-09-13 19:43:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2021-09-14 22:09:19 -0300"
     },
     "done": true
   },
@@ -2763,6 +2987,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stonebrick": {
     "criteria": {
       "has_item": "2021-09-13 02:24:16 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2021-09-14 22:53:55 -0300"
     },
     "done": true
   },
