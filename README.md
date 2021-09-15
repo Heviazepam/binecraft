@@ -5,8 +5,7 @@ You need to have installed `git` in your machine for this guideline to work.
 ## Set server data
 1. Press windows key.
 2. type `cmd` then hit enter.
-3. create empty folder in desired location.
-4. `cd` to the new folder.
+4. `cd` to where the folder should be created.
 5. run `git clone https://github.com/Heviazepam/Binecraft.git`
 6. `cd binecraft`
 7. run `git init`
