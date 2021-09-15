@@ -10,7 +10,7 @@ You need to have installed `git` in your machine for this guideline to work.
 5. run `git clone https://github.com/Heviazepam/Binecraft.git`
 6. `cd` `binecraft` folder.
 7. run `git init`
-8. `git remote add origin url`
+8. `git remote add origin https://github.com/Heviazepam/binecraft.git`
 
 ## Start server
 1. navigate to `binecraft` folder.
