@@ -252,15 +252,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2021-09-12 22:35:25 -0300"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_black_wool": "2021-09-12 22:07:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2021-09-12 22:35:25 -0300"
     },
     "done": true
   },
@@ -913,15 +913,15 @@
     },
     "done": true
   },
-  "adorn:recipes/acacia_kitchen_cupboard": {
-    "criteria": {
-      "has_key_item_0": "2021-09-12 22:47:40 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-09-12 22:11:08 -0300"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_kitchen_cupboard": {
+    "criteria": {
+      "has_key_item_0": "2021-09-12 22:47:40 -0300"
     },
     "done": true
   },
@@ -1167,15 +1167,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2021-09-12 22:11:08 -0300"
-    },
-    "done": true
-  },
   "variant16x:recipes/building_blocks/white_wool_stairs": {
     "criteria": {
       "has_white_wool": "2021-09-12 21:29:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2021-09-12 22:11:08 -0300"
     },
     "done": true
   },
@@ -1431,6 +1431,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/beef_patty": {
+    "criteria": {
+      "beef_patty": "2021-09-14 21:41:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-09-12 22:11:08 -0300"
@@ -1584,6 +1590,12 @@
   "adorn:recipes/birch_kitchen_counter": {
     "criteria": {
       "has_key_item_0": "2021-09-11 20:23:00 -0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/firefly_forest": {
+    "criteria": {
+      "discover": "2021-09-14 21:48:28 -0300"
     },
     "done": true
   },
@@ -1991,6 +2003,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2021-09-14 21:41:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2021-09-11 17:01:36 -0300"
@@ -2345,17 +2363,17 @@
     },
     "done": true
   },
-  "repurposed_structures:pyramids": {
-    "criteria": {
-      "in_pyramid_giant_tree_taiga": "2021-09-12 22:22:58 -0300"
-    },
-    "done": false
-  },
   "comforts:hammock_black": {
     "criteria": {
       "has_black_wool": "2021-09-12 22:07:17 -0300"
     },
     "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_giant_tree_taiga": "2021-09-12 22:22:58 -0300"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
@@ -2714,6 +2732,12 @@
     },
     "done": false
   },
+  "twilightforest:alt/biomes/general_biomes": {
+    "criteria": {
+      "1": "2021-09-14 21:48:28 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-09-11 16:25:24 -0300"
@@ -2809,6 +2833,15 @@
       "has_redstone": "2021-09-11 16:57:04 -0300"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_log": "2021-09-14 21:51:25 -0300",
+      "twilight_oak_wood": "2021-09-14 21:51:21 -0300",
+      "canopy_log": "2021-09-14 21:50:04 -0300",
+      "canopy_sapling": "2021-09-14 21:50:06 -0300"
+    },
+    "done": false
   },
   "variant16x:recipes/redstone/dark_prismarine_button": {
     "criteria": {
@@ -3346,17 +3379,17 @@
     },
     "done": true
   },
-  "variant16x:recipes/decorations/acacia_wood_fence": {
-    "criteria": {
-      "has_acacia_wood": "2021-09-12 22:52:32 -0300"
-    },
-    "done": true
-  },
   "blue_skies:everdawn/kill_bug": {
     "criteria": {
       "kill_emberback": "2021-09-12 21:39:41 -0300"
     },
     "done": false
+  },
+  "variant16x:recipes/decorations/acacia_wood_fence": {
+    "criteria": {
+      "has_acacia_wood": "2021-09-12 22:52:32 -0300"
+    },
+    "done": true
   },
   "minecraft:story/mine_diamond": {
     "criteria": {
@@ -3507,6 +3540,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2021-09-11 17:54:28 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2021-09-14 21:41:45 -0300"
     },
     "done": true
   },
@@ -3825,6 +3864,12 @@
   "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
     "criteria": {
       "has_brown_dye": "2021-09-12 22:06:20 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2021-09-14 21:41:45 -0300"
     },
     "done": true
   },
@@ -4183,6 +4228,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/onion_crate": {
+    "criteria": {
+      "has_onion": "2021-09-14 21:44:50 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2021-09-11 16:52:16 -0300"
@@ -4255,15 +4306,15 @@
     },
     "done": true
   },
-  "variant16x:recipes/redstone/acacia_wood_button": {
-    "criteria": {
-      "has_acacia_wood": "2021-09-12 22:52:32 -0300"
-    },
-    "done": true
-  },
   "variant16x:recipes/decorations/dark_prismarine_wall": {
     "criteria": {
       "has_dark_prismarine": "2021-09-12 22:35:25 -0300"
+    },
+    "done": true
+  },
+  "variant16x:recipes/redstone/acacia_wood_button": {
+    "criteria": {
+      "has_acacia_wood": "2021-09-12 22:52:32 -0300"
     },
     "done": true
   },
