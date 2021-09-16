@@ -20,4 +20,6 @@ You need to have installed `git` in your machine for this guideline to work.
 1. Press windows key
 2. type `cmd` then hit enter.
 3. `cd` to `binecraft` folder.
-4. run `git push`. For first push use `git push -u origin master` instead.
+4. `git add .`
+5. `git commit -m <date>` ex. `git commit -m "15-sep 21:36"`
+6. run `git push`. For first push use `git push -u origin master` instead.
